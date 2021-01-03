@@ -1,0 +1,10 @@
+{
+  "name": "7.1first-use",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ranzhouhang",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.30.0"
+  }
+}
